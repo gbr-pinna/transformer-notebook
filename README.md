@@ -38,4 +38,4 @@ transformer_tutorial.ipynb
 ## Reference
 
 * Vaswani et al., *Attention Is All You Need* (2017)
-* 
+* Géron, Aurélien. *Hands-On Machine Learning With Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems*. O'Reilly Media, 2025.

@@ -4,13 +4,18 @@ A mathematical and implementation-focused introduction to the Transformer archit
 
 This repository contains:
 
-* an intuitive explanation of self-attention and multi-head attention,
-* encoder-decoder Transformer architecture,
-* masking and positional encoding,
-* embeddings, loss functions, and regularisation,
-* a PyTorch implementation of multi-head attention.
+* **transformer_tutorial.ipynb** — a Jupyter notebook that covers:
+  * An intuitive explanation of self-attention and multi-head attention
+  * Encoder-decoder Transformer architecture
+  * Masking and positional encoding
+  * Embeddings, loss functions, and regularisation
+  * A PyTorch implementation of multi-head attention
 
-The goal of this notebook is to understand both the mathematical ideas and the tensor operations behind modern Transformer models.
+  The goal of the notebook is to understand both the mathematical ideas and the tensor operations behind modern Transformer models.
+  After studying the theory, we apply the Transformer to code a **small English–Italian translator** trained on a very small, synthetic corpus.
+ 
+
+* **Transformer_notes.pdf** — handwritten notes summarising the key concepts from the original Transformer paper.
 
 ## Requirements
 
@@ -33,3 +38,4 @@ transformer_tutorial.ipynb
 ## Reference
 
 * Vaswani et al., *Attention Is All You Need* (2017)
+* 
